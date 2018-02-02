@@ -1,0 +1,1 @@
+/Users/dp-qa2/Library/Android/sdk/platform-tools/adb -s $1 uninstall com.tdcm.android.trueyou
